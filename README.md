@@ -1,14 +1,10 @@
-# App name
+# iridize_permalink
 
-[brief description of the app]
+This is a sidebar app that helps idize customers easily search for guides.
+Once the user search for a word, he will get all that guides that include this word in their name or in their description and by clicking a guide the user will get the guide permalink.
 
-### The following information is displayed:
-
-* info1
-* info2
-* info3
-
-Please submit bug reports to [Insert Link](). Pull requests are welcome.
+Please submit bug reports to sapir@iridize.com. Pull requests are welcome.
 
 ### Screenshot(s):
-[put your screenshots down here.]
+
+
