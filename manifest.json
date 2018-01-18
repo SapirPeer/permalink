@@ -1,0 +1,30 @@
+{
+  "name": "IridizeApp",
+  "author": {
+    "name": "Iridize",
+    "email": "contact@iridize.com",
+    "url": "https://www.iridize.com/"
+  },
+    
+  "defaultLocale": "en",
+  "private": true,  
+  "location": {
+    "support": {
+      "ticket_sidebar": "assets/iframe.html"
+      
+    }
+  },
+
+  "parameters": [
+    {
+      "name": "appId",
+      "type": "text",
+      "expected": "GuideId",
+      "required": true
+    }
+  
+  ],
+  "version": "1.0",
+  "frameworkVersion": "2.0"
+
+}

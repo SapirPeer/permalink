@@ -1,0 +1,8 @@
+{
+  "app": {
+    "name": "Iridize Permalink",
+    "short_description": "Iridize Permalink helps you find permalinks for relevant guides.",
+    "long_description": "",
+    "installation_instructions": "Copy your appId from your Iridize account and click on install."
+  }
+}
